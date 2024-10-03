@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(85, 24, 24);
+}
+/*<<<<<<< HEAD*/
+h1 {
+    color: blue;
+}/*ESTA LINEA ESTA ESCCRITA EN LOCAL PARA LA PRUEBA DE CONFLICTO PUSH*/
+/*=======*/
+/*h1{
+    color: green;
+} MODIFICACION ECHA EN GITHUB PARA PRUEBA EN CONFLICTO PUSH*/
+/*>>>>>>> b9f88fb806d06d836806dd693043e75f0ae999e3
+    TENEMOS DOS CAMBIOS DEL MISMO ESTILO, ELEGIMOS UNO Y GUARDAMOS*/
